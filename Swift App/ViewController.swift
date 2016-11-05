@@ -24,8 +24,8 @@ class ViewController: UIViewController {
         
         tapCount = tapCount + 1
         
-        if tapCount >= 10 {
-            print("Hey bro, stop its been 10 or more times")
+        if tapCount >= 20 {
+            print("Hey bro, stop its been 20 or more times")
             
             
         }
